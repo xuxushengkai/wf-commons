@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/constant/AuthenticationKey.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/constant/CommonConstants.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/constant/ImageTypeEnum.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/constant/PageConstant.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/constant/SystemCode.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/controller/BaseController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/exception/WFException.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/po/BaseEntityPo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/utils/ClassUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/utils/DesEncryption.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/utils/ExcelParser.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/utils/ExcelUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/utils/FileUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/utils/HttpUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/utils/IdGenUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/utils/JJWTUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/utils/LocalDateTimeUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/utils/Md5Utils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/utils/PinyinUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/utils/PushUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/utils/PushUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/utils/RegexUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/utils/ShortMessgeUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/utils/SignUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/utils/SnowflakeIdWorker.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/utils/StringSplitUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/utils/StringUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/utils/poi/SelfXSSFSHeetXMLHandler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/utils/zqsign/Base64.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/utils/zqsign/Base64Utils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/utils/zqsign/DecryptData.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/utils/zqsign/EncryptData.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/utils/zqsign/HttpRequest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/utils/zqsign/RasUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/utils/zqsign/ZqkjCore.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/vo/ApiKeyAndSecret.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/vo/BaseEntityVo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/vo/ExcelWriteData.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/vo/ResultMessage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/vo/ZQResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wf/common/wfutils/MessageSendUtil.java" charset="GBK" />
+  </component>
+</project>
