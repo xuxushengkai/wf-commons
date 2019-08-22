@@ -1,5 +1,6 @@
 package com.wf.common.exception;
 
+import com.wf.common.constants.ResultCode;
 import lombok.Getter;
 import lombok.Setter;
 
@@ -8,6 +9,8 @@ import lombok.Setter;
 public class WFException extends RuntimeException{
 
     private Integer code;
+
+    private ResultCode resultCode;
 
     public WFException() {
         super();
@@ -24,6 +27,10 @@ public class WFException extends RuntimeException{
     public WFException(String message, Integer code) {
         super(message);
         this.code = code;
+    }
+
+    public WFException(ResultCode resultCode) {
+       this.resultCode = resultCode;
     }
 
 }
