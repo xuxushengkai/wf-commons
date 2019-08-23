@@ -12,10 +12,6 @@ public enum ResultCode {
     INVALID_CODE(1007, "无效的验证码"),
     INVALID_TELEPHONE(1008, "无效的手机号"),
     SAVE_FAILED(1009, "保存失败"),
-    IMPORT_FILE_FAILED(1010, "读取文件内容失败，请重试"),
-    IMPORT_FILE_NOT_NULL(1011, "文件内容不能为空"),
-    CANNOT_FOUND_ENTERPRISE_PARAM(1012, "无法获取集团配置"),
-    WORD_TO_PDF_FAILED(1013, "word转为pdf失败"),
     REPEATED_SUBMISSION_ERROR(1014, "正在处理，请不要重复提交"),
     RECORD_NOT_EXISTS(1015, "记录不存在"),
 
@@ -38,9 +34,10 @@ public enum ResultCode {
     USER_STOPED_NOT_CHANGE(10012, "账户已停用，不能更改"),
     USER_STATUS_IS_SAME(10013, "账户状态相同无须更改"),
     USER_IS_STOP(10014, "账户已停用"),
-    INIT_ADMIN_ROLE_FAILED(10015, "创建集团超级管理员失败"),
     OP_NO_ALLOWED(10016, "操作非法"),
-    USERNAME_IS_EXIST(11003, "账户名已存在");
+    USERNAME_IS_EXIST(11003, "账户名已存在"),
+    ACCOUNT_IS_LOGIN(11003, "该账户已登录");
+
 
 
     private int code;
