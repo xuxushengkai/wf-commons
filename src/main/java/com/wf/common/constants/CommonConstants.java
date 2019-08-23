@@ -12,8 +12,8 @@ public interface CommonConstants {
     }
 
     enum Status {
-        ENABLE(1, "启用中"),
-        DISABLE(0, "停用中");
+        ENABLE(0, "启用中"),
+        DISABLE(1, "停用中");
 
         public Integer code;
         public String name;
