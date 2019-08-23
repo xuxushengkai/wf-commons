@@ -8,6 +8,7 @@ public interface CommonConstants {
     interface JWT {
         String JWT_KEY_USER_ID = "userId";
         String JWT_KEY_LOGIN_TIME = "loginTime";
+        String JWT_KEY_ACCOUNT = "account";
         String JWT_TOKEN_SPACENAME = "JWT_TOKEN";
     }
 
